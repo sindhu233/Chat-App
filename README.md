@@ -31,13 +31,9 @@ Firebase
 
 Glide
 
-Curved Bottom Nav
-
 Circular Image View
 
 Navigation Components
-
-Dot Loader
 
 # Limitations
 Latency is higher than that of chat apps built using websockets.
@@ -46,10 +42,3 @@ Since, cloud functions are not available in Spark Plan of Firebase, therefore fo
 
 # Compatibility
 Android 9 (api level 28) and above.
-
-# Upcoming Features
-Group Chats
-
-Image Sharing
-
-Audio Sharing

@@ -21,8 +21,6 @@ Read External Storage
 
 # Dependencies
 
-Kotlin
-
 Coroutines
 
 Dagger Hilt

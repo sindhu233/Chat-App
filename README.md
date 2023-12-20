@@ -1,6 +1,6 @@
 # Chat-Application-Project
 # About
-A chat app for Android written in Kotlin using MVVM.
+A chat app for Android written in Java using MVVM.
 
 # Features
 Authentication:Email and password
